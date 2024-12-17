@@ -1,0 +1,100 @@
+Country,iso3,Super_region,Region
+Algeria,DZA,North Africa and Middle East,North Africa and Middle East
+American Samoa,ASM,"Southeast Asia, East Asia, and Oceania",Oceania
+Anguilla,AIA,Latin America and Caribbean,Caribbean
+Armenia,ARM,"Central Europe, Eastern Europe, and Central Asia",Central Asia
+Aruba,ABW,Latin America and Caribbean,Caribbean
+Bangladesh,BGD,South Asia,South Asia
+Barbados,BRB,Latin America and Caribbean,Caribbean
+Belarus,BLR,"Central Europe, Eastern Europe, and Central Asia",Eastern Europe
+Benin,BEN,Sub-Saharan Africa,Western Sub-Saharan Africa
+Bermuda,BMU,Latin America and Caribbean,Caribbean
+Bhutan,BTN,South Asia,South Asia
+Botswana,BWA,Sub-Saharan Africa,Southern Sub-Saharan Africa
+British Virgin Islands,VGB,Latin America and Caribbean,Caribbean
+Brunei Darussalam,BRN,High-income,High-income Asia Pacific
+Burkina Faso,BGR,"Central Europe, Eastern Europe, and Central Asia",Central Europe
+Cambodia,KHM,"Southeast Asia, East Asia, and Oceania",Southeast Asia
+Cape Verde,CPV,Sub-Saharan Africa,Western Sub-Saharan Africa
+Central African Republic,CAF,Sub-Saharan Africa,Central Sub-Saharan Africa
+Chad,TCD,Sub-Saharan Africa,Western Sub-Saharan Africa
+Colombia,COL,Latin America and Caribbean,Central Latin America
+Comoros,COM,Sub-Saharan Africa,Eastern Sub-Saharan Africa
+Cook Islands,COK,"Southeast Asia, East Asia, and Oceania",Oceania
+Côte d'Ivoire,CIV,Sub-Saharan Africa,Western Sub-Saharan Africa
+Democratic Republic of the Congo,COD,Sub-Saharan Africa,Central Sub-Saharan Africa
+Dominica,DMA,Latin America and Caribbean,Caribbean
+Ecuador,ECU,Latin America and Caribbean,Andean Latin America
+Egypt,EGY,North Africa and Middle East,North Africa and Middle East
+Eritrea,ERI,Sub-Saharan Africa,Eastern Sub-Saharan Africa
+Eswatini,SWZ,Sub-Saharan Africa,Southern Sub-Saharan Africa
+Ethiopia,ETH,Sub-Saharan Africa,Eastern Sub-Saharan Africa
+Fiji,FJI,"Southeast Asia, East Asia, and Oceania",Oceania
+French Polynesia,PYF,"Southeast Asia, East Asia, and Oceania",Oceania
+Gabon,GAB,Sub-Saharan Africa,Central Sub-Saharan Africa
+Gambia,GMB,Sub-Saharan Africa,Western Sub-Saharan Africa
+Georgia,GEO,"Central Europe, Eastern Europe, and Central Asia",Central Asia
+Ghana,GHA,Sub-Saharan Africa,Western Sub-Saharan Africa
+Grenada,GRD,Latin America and Caribbean,Caribbean
+Guatemala,GTM,Latin America and Caribbean,Central Latin America
+Guinea,GIN,Sub-Saharan Africa,Western Sub-Saharan Africa
+Indonesia,IDN,"Southeast Asia, East Asia, and Oceania",Southeast Asia
+Iraq,IRQ,North Africa and Middle East,North Africa and Middle East
+Jordan,JOR,North Africa and Middle East,North Africa and Middle East
+Kenya,KEN,Sub-Saharan Africa,Eastern Sub-Saharan Africa
+Kiribati,KIR,"Southeast Asia, East Asia, and Oceania",Oceania
+Kuwait,KWT,North Africa and Middle East,North Africa and Middle East
+Lao People's Democratic Republic,LAO,"Southeast Asia, East Asia, and Oceania",Southeast Asia
+Lebanon,LBN,North Africa and Middle East,North Africa and Middle East
+Lesotho,LSO,Sub-Saharan Africa,Southern Sub-Saharan Africa
+Liberia,LBR,Sub-Saharan Africa,Western Sub-Saharan Africa
+Libya,LBY,North Africa and Middle East,North Africa and Middle East
+Madagascar,MDG,Sub-Saharan Africa,Eastern Sub-Saharan Africa
+Malawi,MWI,Sub-Saharan Africa,Eastern Sub-Saharan Africa
+Malaysia,MYS,"Southeast Asia, East Asia, and Oceania",Southeast Asia
+Maldives,MDV,"Southeast Asia, East Asia, and Oceania",Southeast Asia
+Mali,MLI,Sub-Saharan Africa,Western Sub-Saharan Africa
+Marshall Islands,MHL,"Southeast Asia, East Asia, and Oceania",Oceania
+Micronesia,FSM,"Southeast Asia, East Asia, and Oceania",Oceania
+Mongolia,MNG,"Central Europe, Eastern Europe, and Central Asia",Central Asia
+Morocco,MAR,North Africa and Middle East,North Africa and Middle East
+Mozambique,MOZ,Sub-Saharan Africa,Eastern Sub-Saharan Africa
+Myanmar,MMR,"Southeast Asia, East Asia, and Oceania",Southeast Asia
+Nauru,NRU,"Southeast Asia, East Asia, and Oceania",Oceania
+Nepal,NPL,South Asia,South Asia
+Niger,NER,Sub-Saharan Africa,Western Sub-Saharan Africa
+Niue,NIU,"Southeast Asia, East Asia, and Oceania",Oceania
+Oman,OMN,North Africa and Middle East,North Africa and Middle East
+Pakistan,PAK,South Asia,South Asia
+Papua New Guinea,PNG,"Southeast Asia, East Asia, and Oceania",Oceania
+Qatar,QAT,North Africa and Middle East,North Africa and Middle East
+Rwanda,RWA,Sub-Saharan Africa,Eastern Sub-Saharan Africa
+Saint Kitts and Nevis,KNA,Latin America and Caribbean,Caribbean
+Saint Lucia,LCA,Latin America and Caribbean,Caribbean
+Samoa,WSM,"Southeast Asia, East Asia, and Oceania",Oceania
+São Tomé and Principe,STP,Sub-Saharan Africa,Western Sub-Saharan Africa
+Senegal,SEN,Sub-Saharan Africa,Western Sub-Saharan Africa
+Seychelles,SYC,Sub-Saharan Africa,Eastern Sub-Saharan Africa
+Sierra Leone,SLE,Sub-Saharan Africa,Western Sub-Saharan Africa
+Solomon Islands,SLB,"Southeast Asia, East Asia, and Oceania",Oceania
+Sri Lanka,LKA,"Southeast Asia, East Asia, and Oceania",Southeast Asia
+St. Vincent and the Grenadines,VCT,Latin America and Caribbean,Caribbean
+Sudan,SDN,North Africa and Middle East,North Africa and Middle East
+The Cayman Islands,CYM,Latin America and Caribbean,Caribbean
+The Islamic Republic of Iran,IRN,North Africa and Middle East,North Africa and Middle East
+The Occupied Palestinian Territory,PSE,North Africa and Middle East,North Africa and Middle East
+The Republic of Moldova,MDA,"Central Europe, Eastern Europe, and Central Asia",Eastern Europe
+Timor-Leste,TLS,"Southeast Asia, East Asia, and Oceania",Southeast Asia
+Togo,TGO,Sub-Saharan Africa,Western Sub-Saharan Africa
+Tokelau,TKL,"Southeast Asia, East Asia, and Oceania",Oceania
+Tonga,TON,"Southeast Asia, East Asia, and Oceania",Oceania
+Trinidad and Tobago,TTO,Latin America and Caribbean,Caribbean
+Turkey,TUR,North Africa and Middle East,North Africa and Middle East
+Turkmenistan,TKM,"Central Europe, Eastern Europe, and Central Asia",Central Asia
+Uganda,UGA,Sub-Saharan Africa,Eastern Sub-Saharan Africa
+United Republic of Tanzania,TZA,Sub-Saharan Africa,Eastern Sub-Saharan Africa
+Uzbekistan,UZB,"Central Europe, Eastern Europe, and Central Asia",Central Asia
+Vanuatu,VUT,"Southeast Asia, East Asia, and Oceania",Oceania
+Vietnam,VNM,"Southeast Asia, East Asia, and Oceania",Southeast Asia
+Zambia,ZMB,Sub-Saharan Africa,Eastern Sub-Saharan Africa
+Zanzibar,ZZB,Sub-Saharan Africa,Eastern Sub-Saharan Africa
